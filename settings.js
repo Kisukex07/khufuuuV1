@@ -61,8 +61,8 @@ global.socialm = "o" //ur github or insta name
 global.location = "Egypt" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['966+0532773744']
+global.ownertag = 'Yato' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
 global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
@@ -71,7 +71,7 @@ global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //scri
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "01121968769" //ur sticker watermark packname
-global.author = "خوفو ص المزعجين ☺️ " //ur sticker watermark author
+global.author = "Yatox2 bot ☺️ " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,7 +106,7 @@ global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'ضن✓',
+    success: 'تم✓',
     admin: 'لازم تكون ادمن الاول ',
     botAdmin: 'لازم اكون ادمن  الاول ',
     owner: 'ميزه دي ل مالك البوت فقط ',
